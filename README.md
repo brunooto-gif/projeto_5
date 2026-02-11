@@ -40,10 +40,8 @@ O dashboard permite:
 
 1. acesse o link:
 
-```
-bash
 https://projeto-5-tripleten.onrender.com/
-´´´ 
+
 ---
 
 ## ▶️ Como rodar localmente
