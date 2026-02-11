@@ -36,9 +36,23 @@ O dashboard permite:
 
 ---
 
+## 🛜 Como rodar na web
+
+1. acesse o link:
+
+```
+bash
+https://projeto-5-tripleten.onrender.com/
+´´´ 
+---
+
 ## ▶️ Como rodar localmente
 
 1. Clone o repositório:
 
 ```bash
 git clone https://github.com/brunoto-gif/projeto_5.git
+
+
+
+ 
