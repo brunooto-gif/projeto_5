@@ -50,7 +50,3 @@ https://projeto-5-tripleten.onrender.com/
 
 ```bash
 git clone https://github.com/brunoto-gif/projeto_5.git
-
-
-
- 
